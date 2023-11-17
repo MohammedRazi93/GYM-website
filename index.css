@@ -2434,9 +2434,9 @@ color: orangered;
         font-size: 11px;
     }
     .content {
-        font-size: 28px;
-        top: 244px;
-        left: 92px;
+        font-size: 20px;
+        top: 190px;
+        left: 122px;
     }
     .letter3 h2 {
         padding-bottom: 40px;
@@ -2470,20 +2470,131 @@ color: orangered;
         padding-top: 35px;
         padding-left: 60px;
     }
+    
+    .page {
+        width: 100%;
+        height: 75vh;
+    }
+    button {
+        font-size: 12px;
+        height: 29px;
+        width: 105px;
+    }
+    .button {
+        bottom: 3px;
+    }
+    .content1 img {
+        margin: 0px;
+        height: 270px;
+        width: 65%;
+        padding-left: 75px;
+        padding-bottom: 3px;
+    }
+    .absolute {
+        bottom: 66px;
+        left: 107px;
+        width: 200px;
+    }
+    .session5 img {
+        height: 305px;
+        width: 68%;
+        padding-bottom: 5px;
+    }
     .blog1 {
         flex-wrap: wrap;
-        padding-left: 70px;
+        padding-left: 58px;
     }
     .blog2 {
         flex-wrap: wrap;
-        padding-left: 70px;
+        padding-left: 58px;
     }
     
-    
-    
-    
 
-
-
+}
+@media(max-width:375px){
+    .content {
+        font-size: 20px;
+        top: 175px;
+        left: 105px;
+    }
+    .page {
+        width: 100%;
+        height: 69vh;
+    }
+    button {
+        font-size: 12px;
+        height: 28px;
+        width: 100px;
+    }
+    .letter3 h2 {
+        padding-bottom: 40px;
+        font-size: 22px;
+    }
+    .session3bletter p {
+        font-size: 8px;
+    }
+    .content1 img {
+        margin: 0px;
+        height: 270px;
+        width: 75%;
+        padding-left: 49px;
+        padding-bottom: 3px;
+    }
+    .absolute {
+        bottom: 70px;
+        left: 90px;
+        width: 200px;
+    }
+    .session4letter {
+        top: 0px;
+        left: 42px;
+    }
+    .session3bletter {
+        top: -4px;
+        left: 42px;
+    }
+    .session5 img {
+        height: 307px;
+        width: 75%;
+        padding-bottom: 10px;
+    }
+    .class2 {
+        bottom: 97px;
+        left: 90px;
+        width: 200px;
+    }
+    .session6 p {
+        font-size: 8px;
+    }
+    .session6 h1 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .container1 {
+        padding-top: 35px;
+        padding-left: 40px;
+    }
+    .blog1 {
+        flex-wrap: wrap;
+        padding-left: 50px;
+    }
+    .blog2 {
+        flex-wrap: wrap;
+        padding-left: 50px;
+    }
+    
+    .session8 img {
+        height: 18pc;
+        width: 48vh;
+        padding: 10px;
+    }
+    .blogimg1 {
+        top: 247px;
+        left: 22px;
+    }
+    .blogimg2 {
+        top: 247px;
+        left: 22px;
+    }
 
 }
