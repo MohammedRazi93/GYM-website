@@ -2434,13 +2434,13 @@ color: orangered;
         font-size: 11px;
     }
     .content {
-        font-size: 20px;
-        top: 190px;
-        left: 122px;
+        font-size: 22px;
+        top: 280px;
+        left: 117px;
     }
     .letter3 h2 {
         padding-bottom: 40px;
-        font-size: 25px;
+        font-size: 22px;
     }
     .session3bletter h2 {
         font-size: 20px;
@@ -2462,8 +2462,8 @@ color: orangered;
         left: 67px;
     }
     .class2 {
-        bottom: 97px;
-        left: 112px;
+        bottom: 104px;
+        left: 110px;
         width: 200px;
     }
     .container1 {
@@ -2473,7 +2473,7 @@ color: orangered;
     
     .page {
         width: 100%;
-        height: 50vh;
+        height: 65vh;
     }
     button {
         font-size: 12px;
@@ -2485,9 +2485,9 @@ color: orangered;
     }
     .content1 img {
         margin: 0px;
-        height: 270px;
-        width: 65%;
-        padding-left: 75px;
+        height: 300px;
+        width: 78%;
+        padding-left: 49px;
         padding-bottom: 3px;
     }
     .absolute {
@@ -2496,8 +2496,8 @@ color: orangered;
         width: 200px;
     }
     .session5 img {
-        height: 305px;
-        width: 68%;
+        height: 340px;
+        width: 80%;
         padding-bottom: 5px;
     }
     .blog1 {
@@ -2512,6 +2512,9 @@ color: orangered;
         height: 20pc;
         width: 34vh;
         padding: 5px;
+    }
+    .letter3 {
+        padding: 70px;
     }
 
 
