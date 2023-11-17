@@ -2436,7 +2436,7 @@ color: orangered;
     .content {
         font-size: 22px;
         top: 280px;
-        left: 117px;
+        left: 108px;
     }
     .letter3 h2 {
         padding-bottom: 40px;
@@ -2448,7 +2448,7 @@ color: orangered;
     }
     .session3bletter {
         top: 0px;
-        left: 48px;
+        left: 33px;
     }
     .session4letter h2 {
         font-size: 20px;
@@ -2459,18 +2459,14 @@ color: orangered;
     }
     .session4letter {
         top: 0px;
-        left: 67px;
+        left: 55px;
     }
     .class2 {
         bottom: 104px;
-        left: 110px;
-        width: 200px;
+        left: 95px;
+        width: 225px;
     }
-    .container1 {
-        padding-top: 35px;
-        padding-left: 60px;
-    }
-    
+
     .page {
         width: 100%;
         height: 65vh;
@@ -2512,9 +2508,29 @@ color: orangered;
         height: 20pc;
         width: 34vh;
         padding: 5px;
+        border-radius: 28px
     }
     .letter3 {
         padding: 70px;
+    }
+    .container1 {
+        padding-top: 35px;
+        padding-left: 70px;
+    }
+    .container1 .box1 {
+        height: 23pc;
+        width: 266px;
+        margin-bottom: 35px;
+    }
+    .container1 .box2 {
+        height: 23pc;
+        width: 266px;
+        margin-bottom: 35px;
+    }
+    .container1 .box3 {
+        height: 23pc;
+        width: 266px;
+        margin-bottom: 35px;
     }
 
 
